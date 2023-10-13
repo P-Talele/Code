@@ -1,7 +1,7 @@
 public class Test_Para_Cons
 {    
            int a=200;
-           int b=300;
+           int b=300;  
        public Test_Para_Cons(int a, int b)
        {
            System.out.println(a+b+"=adition of two variable");
