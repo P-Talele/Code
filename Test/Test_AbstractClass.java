@@ -2,8 +2,6 @@
 {
       abstract   void   disp();  
 }
-
-
 class child extends  parrent
 {
          public void disp()

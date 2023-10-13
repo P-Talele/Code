@@ -11,10 +11,7 @@ public class Test_Para_Cons
        {
            System.out.println(a+b+"=adition of two variable");
        }
-
-
-         
-      public static void main(String[]args)
+        public static void main(String[]args)
       {
            int a=20;
            int b=30;
